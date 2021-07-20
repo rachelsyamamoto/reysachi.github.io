@@ -2,10 +2,10 @@ title: Rachel Yamamoto
 author: Rachel Yamamoto
 description: Rachel's website
 
-show_social: true
+show_social: false
 show_excerpts: false
 show_frame: false
-show_sidebar: true
+show_sidebar: false
 
 
 navigation:
