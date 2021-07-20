@@ -1,4 +1,4 @@
-# Rachel Yamamoto
+# About
 ======================
 
 ## Resume
@@ -7,4 +7,4 @@
     <input type="submit" value="go to Resume" />
 </form>
 
-## About Me
+## About
