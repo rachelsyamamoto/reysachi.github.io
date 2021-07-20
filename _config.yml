@@ -2,11 +2,6 @@ title: Rachel Yamamoto
 author: Rachel Yamamoto
 description: Rachel's website
 
-show_social: false
-show_excerpts: false
-show_frame: false
-show_sidebar: false
-
 navbar-links:
   About Me: "about me"
   Author's home: "https://reysachi.github.io/"
