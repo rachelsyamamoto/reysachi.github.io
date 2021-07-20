@@ -11,8 +11,6 @@ navbar-links:
   About Me: "about me"
   Author's home: "https://reysachi.github.io/"
   
-exclude:
-  - README.md
 
 theme: jekyll-theme-midnight
 plugins:
