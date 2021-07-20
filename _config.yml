@@ -2,4 +2,5 @@ title: Rachel Yamamoto
 author: Rachel Yamamoto
 description: Rachel's website
 
-remote_theme: jekyll/minima
+theme: jekyll-theme-midnight
+#remote_theme: jekyll/minima
