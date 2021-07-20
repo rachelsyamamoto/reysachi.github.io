@@ -1,5 +1,9 @@
 title: Rachel Yamamoto
 author: Rachel Yamamoto
 
-theme: jekyll-theme-midnight
+navigation: 
+  - {file: "READ.md", title: About, icon:address-card}
 
+theme: jekyll-theme-midnight
+plugins:
+  - jekyll-freed
