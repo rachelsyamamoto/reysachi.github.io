@@ -9,7 +9,7 @@ show_sidebar: false
 
 
 navigation:
-  - {file: "READ.md", title: About, icon:address-card}
+  - {file: "READ.md", title: "About", icon: address-card}
 
 theme: jekyll-theme-midnight
 plugins:
