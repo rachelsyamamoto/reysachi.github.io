@@ -9,7 +9,7 @@ show_sidebar: false
 
 
 navigation:
-  - {file: "READ.md", title: "About"}
+  - {file: "README.md", title: "About"}
 
 theme: jekyll-theme-midnight
 plugins:
