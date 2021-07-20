@@ -1,1 +1,6 @@
-# reysachi.github.io
+# Rachel Yamamoto
+
+### Resume
+<form action="https://reysachi.github.io/jekyll-resume/">
+    <input type="submit" value="go to Resume" />
+</form>
