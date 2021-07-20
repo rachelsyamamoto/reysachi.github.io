@@ -7,7 +7,7 @@ show_excerpts: false
 show_frame: false
 show_sidebar: false
 
-nav-barlinks:
+navbar-links:
   About Me: "about me"
   Author's home: "https://reysachi.github.io/"
   
