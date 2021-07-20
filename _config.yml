@@ -7,6 +7,5 @@ navbar-links:
   Author's home: "https://reysachi.github.io/"
   
 
-theme: jekyll-theme-midnight
-plugins:
-  - jekyll-freed
+
+remote_theme: jekyll/midnight
