@@ -4,8 +4,8 @@ description: Rachel's website
 
 show_social: true
 show_excerpts: false
-show_frame: true
-show_sidebar: false
+show_frame: false
+show_sidebar: true
 
 
 navigation:
