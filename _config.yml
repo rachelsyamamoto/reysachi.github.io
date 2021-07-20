@@ -7,10 +7,12 @@ show_excerpts: false
 show_frame: false
 show_sidebar: false
 
-
-navigation:
-  - {file: "README.md", title: "About", icon: address-card}
-  - {title: "Resume", url: "https://reysachi.github.io/jekyll-resume/"}
+nav-barlinks:
+  About Me: "about me"
+  Author's home: "https://reysachi.github.io/"
+  
+exclude:
+  - README.md
 
 theme: jekyll-theme-midnight
 plugins:
