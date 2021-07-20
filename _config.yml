@@ -1,7 +1,14 @@
 title: Rachel Yamamoto
 author: Rachel Yamamoto
+description: Rachel's website
 
-navigation: 
+show_social: true
+show_excerpts: false
+show_frame: true
+show_sidebar: true
+
+
+navigation:
   - {file: "READ.md", title: About, icon:address-card}
 
 theme: jekyll-theme-midnight
