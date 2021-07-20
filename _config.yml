@@ -10,6 +10,7 @@ show_sidebar: false
 
 navigation:
   - {file: "README.md", title: "About", icon: address-card}
+  - {title: "Resume", url: "https://reysachi.github.io/jekyll-resume/"}
 
 theme: jekyll-theme-midnight
 plugins:
